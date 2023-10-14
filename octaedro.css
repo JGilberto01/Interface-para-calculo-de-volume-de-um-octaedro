@@ -1,0 +1,49 @@
+*{
+    font-family: 'Young Serif', serif;
+    margin: 0px;
+}
+body{
+    background-color: gray;
+}
+input{
+    border-radius: 5px;
+}
+#container{
+    width: 1350px;
+    height: 600px;
+}
+/* div imagem */
+#octaedrog{
+    width: 500px;
+    height: 500px;
+    margin: 50px 0px 0px 180px;
+    transform: rotate(-9deg);
+    position: fixed;
+}
+/* imagem */
+.octaedrog{
+    width: 400px;
+    height: 400px;
+    opacity: 0.6;
+}
+/* calculos de volume */
+#calculos{
+    display: inline-block;
+    margin-top: 150px;
+    margin-left: 750px;
+}
+/* afirmação volume */
+.afirmação1{
+    margin:0px 0px 10px 0px;
+    display: inline-block;
+}
+#volumefinal{
+    margin-left: 0px;
+}
+#inputvolumefinal{
+    width: 150px;
+}
+.botao_calc{ 
+    margin: 15px 0px 15px 65px;
+    width: 150px;
+}
